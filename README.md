@@ -23,7 +23,7 @@ Este cheatsheet está diseñado para ser lo más conciso y directo posible, perm
 
 ## Imágenes de Previsualización 📸
 
-![Imagen de Previsualización](https://www.cleanpng.com/png-python-programming-language-computer-programming-i-2127298/9.html)
+![Imagen de Previsualización](https://banner2.cleanpng.com/20180515/gbw/kisspng-python-programming-language-computer-programming-i-5afba340dc9162.2210518815264407689035.jpg)
 
 ## Cómo contribuir 🤝
 
