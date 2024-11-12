@@ -21,8 +21,6 @@ Este cheatsheet cubre una variedad de temas esenciales de Python, tales como:
 
 Este cheatsheet está diseñado para ser lo más conciso y directo posible, permitiéndote acceder a los fragmentos de código más comunes y útiles de Python rápidamente. Puedes consultarlo mientras trabajas o incluso imprimirlo para tenerlo a mano.
 
-## Imágenes de Previsualización 📸
-
 ![Imagen de Previsualización](https://banner2.cleanpng.com/20180515/gbw/kisspng-python-programming-language-computer-programming-i-5afba340dc9162.2210518815264407689035.jpg)
 
 ## Cómo contribuir 🤝
@@ -36,6 +34,9 @@ Si encuentras algún error o tienes sugerencias para agregar más conceptos o me
 
 ## Contacto 📫
 
-Si tienes alguna pregunta o sugerencia, puedes contactarme a través de [mi correo electrónico](aag.devv@gmail.com).
+Si tienes alguna pregunta o sugerencia, puedes contactarme a través de mi correo electrónico:
+
+- **Correo electrónico:** aag.devv [at] gmail [dot] com
+- O si prefieres, puedes enviarme un mensaje directo [aquí](mailto:aag.devv@gmail.com).
 
 ¡Espero que este cheatsheet sea útil en tu aprendizaje y trabajo con Python! 🚀
